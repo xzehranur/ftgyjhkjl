@@ -1,0 +1,144 @@
+.navbar {
+    height: 107px;
+    background-color: #2c3c50;
+    padding-bottom: 10px;
+}
+
+.navbar-top {
+    color: white;
+    font-size: 1.75rem;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navbar-link {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+    padding: 1rem;
+}
+
+.header {
+    height: 720px;
+    background-color: #1bbc9c;
+}
+
+.container.avatar {
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33.33333%;
+}
+
+.avatar {
+    margin-top: 0;
+    width: 15rem;
+}
+
+.avatar-h1 {
+    color: white;
+    font-size: 4rem;
+    margin-top: 52px;
+    margin-bottom: 0;
+}
+
+.avatar-p {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.section-portfolio {
+    margin: 6rem;
+}
+
+.portfolio-h {
+    font-size: 3rem;
+    color: #2c3c50;
+    text-align: center;
+}
+
+.img-portfolio {
+    max-width: 100%; 
+    height: auto;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.section-about {
+    height: 520px;
+    background-color: #1bbc9c;
+}
+
+.about-h {
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    padding-top: 50px;
+}
+
+.div-btn {
+    text-align: center;
+    margin-top: 1.5rem;
+    display: block;
+}
+
+.btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    box-sizing: border-box;
+}
+
+.footer {
+    padding: 1rem 0; 
+    background-color: #2c3c50;
+    color: white;
+    text-align: center;
+    font-size: 1.25rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-h {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.footer a {
+    color: #1bbc9c;
+    text-decoration: none;
+}
+
+.row {
+    justify-content: center;
+    margin: 0; 
+}
+
+.col {
+    margin: 0.5rem;
+    width: 33.33333%;
+}
+
+.copyright {
+    background-color: #1a252f;
+    padding: 1.5rem 0; 
+}
+
+.container {
+    padding-top: 1rem;
+    text-align: center;
+    color: white;
+}
+
+.col-6 {
+    width: 33%;
+}
+
+.col-6 p {
+    color: white;
+    font-size: 1.25rem;
+    padding-top: 2rem;
+    display: block;
+}
